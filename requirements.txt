@@ -14,3 +14,9 @@ chromadb
 # sentence_transformers
 langchain_huggingface
 faiss-cpu
+ragas<0.1.1
+llama-index
+arize-phoenix
+openinference-instrumentation-llama-index<1.0.0
+llama-index<0.10.0
+pandas
